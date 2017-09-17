@@ -1,6 +1,6 @@
 set -xg WUSERPROFILE /mnt/c/Users/Omar
 set -xg SITES /mnt/c/laragon/www
-set PATH /mnt/c/Users/Omar/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/172.3544.35/bin $PATH
+set PATH /mnt/c/Users/Omar/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/172.4155.36/bin $PATH
 
 alias e "explorer.exe ."
 
